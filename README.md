@@ -4,7 +4,7 @@
 ## Install Crostini (official Linux environment)
 You can install it just by turning it on from the ChromeOS settings.  
 > Settings > **Advanced** > **Developers**
->> Next to "**Linux develop environment**", select **Turn On**
+>> Next to **Linux develop environment**, select **Turn On**
 
 ## Install ADB
 Install the ADB used to install the app from the .apk file.  
@@ -16,7 +16,7 @@ Install the ADB.
 ## Enable ADB debugging
 Change the settings for connecting to the Android container in the ChromeOS with ADB.  
 > Settings > **Advanced** > **Developers** > **Linux develop environment**
->>Next to "**Android app Development**", enable "**Enable ADB debugging**"
+>>Next to "**Android app Development**", enable **Enable ADB debugging**
 ### *Once enabled,Powerwash is required to disable it*
 
 ## ADB connection to Android container
