@@ -35,3 +35,5 @@ The installation command using ADB is as follows.
 #### Important Point
 The following sentence will be displayed on the login screen.  
 > *This device may have installed an app that Google has not verified*
+
+that's all
